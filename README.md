@@ -12,6 +12,8 @@ numpy == 1.21.6
 
 sklearn == 0.0
 
+networkx == 2.5
+
 
 # 数据集介绍
 music-音乐
